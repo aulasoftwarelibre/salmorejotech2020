@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
+title: "SalmorejoTech 2020 | Aula de Software Libre"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
@@ -42,27 +42,26 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/", text: "Inicio"}
+ - {permalink: "/blog/", text: "Información"}
+ - {permalink: "/schedule/", text: "Ponentes"}
+ - {permalink: "/speakers/", text: "Patrocinadores"}
+ - {permalink: "/team/", text: "Programa"}
+ - {permalink: "/logistics/", text: "Entradas"}
+ - {permalink: "/hackathon/", text: "Sede"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Inscribete para dar tu charla"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Inscribete para dar tu charla"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroImage: "wallpaper-onda-sin-logo.png"
+heroTitle: "SalmorejoTech 2020"
+eventDate: "Septiembre, 2020"
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Inscribete para dar tu charla"}
+ - {permalink: "/#tickets", text: "Consigue tu entrada"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
