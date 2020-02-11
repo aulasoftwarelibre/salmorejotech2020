@@ -48,11 +48,11 @@ navigationLinks:
  - {permalink: "/ponentes/", text: "Ponentes"}
  - {permalink: "/patrocinadores/", text: "Patrocinadores"}
  - {permalink: "/entradas/", text: "Entradas"}
- - {permalink: "/sede/", text: "Sede"}
+ - {permalink: "/#location-map", text: "Sede"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Inscribete para dar tu charla"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Inscribete para dar tu charla"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Consigue tu entrada"}
 
 # Hero Block
 heroImage: "wallpaper-azul.png"
@@ -115,7 +115,7 @@ venueFeatures: ["Gran proyector", "Sistema de sonido preparado", "Localizado en 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "¡Sigue el evento en twitter!"
-twitterHashTag: "SalmorejoTech"
+twitterHashTag: "SalmorejoTech2020"
 twitterFeed: "https://twitter.com/search?q=%23salmorejotech&src=typed_query"
 
 # Partners Block
@@ -182,10 +182,9 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://www.uco.es/aulasoftwarelibre/", text: "Aula Software Libre"}
  -
-  title: "Contacts"
+  title: "Contacta"
   links:
    - {link: "mailto:aulasoftwarelibre@uco.es", text: "aulasoftwarelibre@uco.es"}
  -
@@ -202,8 +201,8 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "¿Quieres Colaborar?"
+aboutUs: "Si eres una empresa y quieres apadrinar económicamente las actividades del Aula de Software Libre, contacta con nosotros a través de nuestro formulario de contacto y te enviaremos el dossier de patrocinio."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
