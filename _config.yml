@@ -44,9 +44,9 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
  - {permalink: "/info/", text: "Información"}
+ - {permalink: "/programa/", text: "Programa"}
  - {permalink: "/ponentes/", text: "Ponentes"}
  - {permalink: "/patrocinadores/", text: "Patrocinadores"}
- - {permalink: "/programa/", text: "Programa"}
  - {permalink: "/entradas/", text: "Entradas"}
  - {permalink: "/sede/", text: "Sede"}
 bottomNavigationLinks:
@@ -119,22 +119,22 @@ twitterHashTag: "SalmorejoTech"
 twitterFeed: "https://twitter.com/search?q=%23salmorejotech&src=typed_query"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizador"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Patrocina este evento"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeTitle: "Subscríbete"
+subscribeAction: ""
+subscribeInfo: "Únete a nuestra lista de correo si quieres estar al día"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "tickets"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
+  name: "Early Birds"
   price: "350"
   priceCurrency: "UAH"
   ticketsNumber: "150"
@@ -173,9 +173,10 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/b/102444623953913144164", icon: "instagram"}
+ - {link: "https://twitter.com/AulaSL", icon: "twitter"}
+ - {link: "https://www.facebook.com/AulaSoftwareLibre", icon: "facebook"}
+ - {link: "https://www.facebook.com/AulaSoftwareLibre", icon: "github"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -186,14 +187,14 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:aulasoftwarelibre@uco.es", text: "aulasoftwarelibre@uco.es"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "El Aula"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 
