@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Inscribete para dar tu charla"}
 
 # Hero Block
-heroImage: "wallpaper-onda-sin-logo.png"
+heroImage: "wallpaper-azul.png"
 heroTitle: "SalmorejoTech 2020"
 eventDate: "Septiembre, 2020"
 typeoutFallback: "Season"
