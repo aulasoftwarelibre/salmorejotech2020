@@ -65,7 +65,7 @@ Quick-start guide is not enough? Checkout [full documentation](https://github.co
 * [Sticky-kit](https://github.com/leafo/sticky-kit)
 
 ### Contributors
-* [Guille Cosano](https://github.com/i62cogag)
+* [Guillermo Cosano](https://github.com/i62cogag)
 * [Sergio Gomez](https://github.com/sgomez)
 * [Adrián López](https://github.com/adrianlopezgue)
 * [Jose Férnandez](https://github.com/josefrnandezz)
