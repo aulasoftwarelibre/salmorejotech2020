@@ -17,7 +17,6 @@ baseurl: "/2020"
 url: "https://salmorejo.tech"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -48,16 +47,16 @@ navigationLinks:
 # - {permalink: "/ponentes/", text: "Ponentes"}
 # - {permalink: "/patrocinadores/", text: "Patrocinadores"}
 # - {permalink: "/entradas/", text: "Entradas"}
-# - {permalink: "/#location-map", text: "Sede"}
+ - {permalink: "/#location-map", text: "Sede"}
 #bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Inscribete para dar tu charla"}
 #rightNavigationButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Consigue tu entrada"}
 
 # Hero Block
-heroImage: "wallpaper-azul.png"
+heroImage: "wallpaper-hero.jpg"
 heroTitle: "SalmorejoTech 2020"
-eventDate: "Septiembre, 2020"
+eventDate: "18 de septiembre"
 typeoutTextValues: '"", "Libre", "Cordobés", "Tecnológico"'
 typeoutFallback: "Season"
 #heroButtons:
@@ -68,14 +67,14 @@ typeoutFallback: "Season"
 aboutTitle: "Sobre SalmorejoTech"
 aboutBlock:
  - {title: "Encuentro Tecnológico", image: "conference.jpg", text: "SalmorejoTech es un encuentro técnológico con sabor cordobés que une a ingenieros, programadores y estudiantes a un lugar donde abrir puertas a nuevo conocimiento sobre informática." }
- - {title: "Networking", image: "workshop.jpg", text: "Tras disfrutar de las increibles charlas, los asistentes al evento podrán compartir su experiencia con los demás y establecer nuevas relaciones." }
+ - {title: "Organizador", image: "aulasoftwarelibre.png", text: "El Aula de Software Libre de la Universidad de Córdoba es una entidad universitaria para el fomento y la difusión del Software Libre dentro de la comunidad universitaria y en la sociedad en general." }
+ - {title: "Lugar", image: "rectorado.jpg", text: "El salón de actos del Rectorado de la Universidad de Córdoba será el lugar de encuentro donde se impartirán las charlas del SalmorejoTech2020." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "asistentes", detail: "de todas partes de España"}
- - {count: "48", specialCharacter: "+", info: "horas", detail: "de increibles charlas"}
- - {count: "20", specialCharacter: "+", info: "ponentes", detail: "con ganas de enseñar"}
+ - {count: "12", specialCharacter: "+", info: "horas", detail: "de increibles charlas"}
  - {count: "2", specialCharacter: "", info: "tracks", detail: "de puro entretenimiento"}
 
 # Latest News Block
@@ -89,16 +88,13 @@ rockstarSpeakersButtonText: "Ver todos los ponentes"
 
 # Location Block
 locationBlockTitle: "La sede"
-eventLocationName: "Rectorado de la Universidad de Córdoba"
+eventLocationName: "Salón de actos del Rectorado - Universidad de Córdoba"
 eventLocationLink: "https://www.google.com/search?client=ubuntu&channel=fs&q=rectorado%20de%20cordoba&ie=utf-8&oe=utf-8&hs=ntJ&npsic=0&rflfq=1&rlha=0&rllag=37882360,-4785404,387&tbm=lcl&rldimm=16039935859029556265&lqi=ChRyZWN0b3JhZG8gZGUgY29yZG9iYVohCglyZWN0b3JhZG8iFHJlY3RvcmFkbyBkZSBjb3Jkb2Jh&ved=2ahUKEwjY6bm3xsznAhVG1hoKHUmoBjQQvS4wAnoECAwQIA&rldoc=1&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&rlst=f#rlfi=hd:;si:16039935859029556265,l,ChRyZWN0b3JhZG8gZGUgY29yZG9iYVohCglyZWN0b3JhZG8iFHJlY3RvcmFkbyBkZSBjb3Jkb2Jh;mv:[[37.88556017731903,-4.778020961461594],[37.88520022268097,-4.778477038538408]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2"
 eventStreetAddress: "Av. Medina Azahara, s/n"
-eventAddressLocality: "Córdoba"
+eventAddressLocality: "Universidad de Córdoba"
 eventAddressLocalityRegion: "Córdoba"
 eventPostalCode: "14005"
 eventAddressCountry: "España"
-eventStartTime: "2020-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2020-10-25T20:00"
 eventPlaceCoordinates: "37.885401, -4.778238"
 mapCenterCoordinates: "37.885401, -4.778238"
 mapMobileCenterCoordinates: "37.885401, -4.778238"
@@ -113,7 +109,7 @@ venueTitle: "Salón de actos del rectorado"
 venueFeatures: ["Gran proyector", "Sistema de sonido preparado", "Localizado en el pleno centro del edificio"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "mezquita.jpg"
 tweetsFeedTitle: "¡Sigue el evento en twitter!"
 twitterHashTag: "SalmorejoTech2020"
 twitterFeed: "https://twitter.com/search?q=%23salmorejotech&src=typed_query"

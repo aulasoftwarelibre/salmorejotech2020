@@ -129,37 +129,46 @@ time {
     background-color: #fff;
 }
 .loader-gplus {
-    display: inline-block;
-    position: absolute;
-    top: calc(50% - 20px);
-    left: calc(50% - 20px);
-    width: 40px;
-    height: 40px;
-    overflow: hidden;
-    border-radius: 20px;
-    animation: base 3s steps(1) 0s infinite;
-    &::before, &::after {
-        content: ' ';
-        display: block;
-        width: 50%;
-        height: 100%;
-        overflow: hidden;
-        position: absolute;
-        top: 0;
-        left: 50%;
-        z-index: 1;
-        border-radius: 0 20px 20px 0;
-        transform-origin: 0 50%;
-    }
-    &::before {
-        z-index: 2;
-        transform-style: preserve-3d;
-        animation: flip 3s linear 0s infinite;
-    }
-    &::after {
-        animation: reveal 3s steps(1) 0s infinite;
-    }
+    margin: 100px auto 0;
+  width: 70px;
+  text-align: center;
 }
+
+.loader-gplus > div {
+    width: 18px;
+    height: 18px;
+    background-color: #333;
+  
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+    animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+  }
+  
+  .loader-gplus .bounce1 {
+    -webkit-animation-delay: -0.32s;
+    animation-delay: -0.32s;
+  }
+  
+  .loader-gplus .bounce2 {
+    -webkit-animation-delay: -0.16s;
+    animation-delay: -0.16s;
+  }
+  
+  @-webkit-keyframes sk-bouncedelay {
+    0%, 80%, 100% { -webkit-transform: scale(0) }
+    40% { -webkit-transform: scale(1.0) }
+  }
+  
+  @keyframes sk-bouncedelay {
+    0%, 80%, 100% { 
+      -webkit-transform: scale(0);
+      transform: scale(0);
+    } 40% { 
+      -webkit-transform: scale(1.0);
+      transform: scale(1.0);
+    }
+  }
 @keyframes base {
     0% {
         transform: rotate(0deg);
