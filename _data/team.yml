@@ -1,60 +1,160 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "José"
+  surname: "Márquez"
+  title: "Coordinación"
+  thumbnailUrl: JoseMarquez.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "ASL", title: "Aula Software Libre UCO"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "https://twitter.com/PepeMarquezOF"}
+    - {name: "github", link: "https://github.com/IronSenior"}
+    - {name: "site", link: "https://www.linkedin.com/in/pepemarquezof/"}
+
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Pablo"
+  surname: "Rodríguez"
+  title: "Relaciones Externas"
+  thumbnailUrl: PabloRodriguez.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "ASL", title: "Aula Software Libre UCO"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/Pablorg99"}
+    - {name: "github", link: "https://github.com/Pablorg99/"}
+    - {name: "site", link: "https://www.linkedin.com/in/pablorg99/"}
+
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Francis"
+  surname: "Molina"
+  title: "RRSS y Marketing"
+  thumbnailUrl: FrancisMolina.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/rexuswolf"}
+    - {name: "github", link: "https://github.com/RexusWolf"}
+    - {name: "site", link: "https://www.linkedin.com/in/francisjmp/"}
+
+- 
+  id: 3
+  name: " Guillermo"
+  surname: "Cosano"
+  title: "Apoyo a desarrollo"
+  thumbnailUrl: GuillermoCosano.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "ASL", title: "Aula Software Libre UCO"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: "https://twitter.com/gecoga_98"}
+    - {name: "github", link: "https://github.com/i62cogag"}
+    - {name: "site", link: "https://www.linkedin.com/in/gecoga-98/"}
+
+
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Marcos"
+  surname: "Rivera"
+  title: "Secretaría"
+  thumbnailUrl: FrancisMolina.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/Marcos18428863"}
+    - {name: "github", link: "https://github.com/MarcosRigal"}
+    - {name: "site", link: "https://www.linkedin.com/in/marcos-rivera-gavil%C3%A1n-806b61184/"}
+
+- 
+  id: 5
+  name: "Marcos"
+  surname: "Rodríguez"
+  title: "Apoyo a Relaciones Externas"
+  thumbnailUrl: FrancisMolina.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/markshelby_"}
+    - {name: "github", link: "https://github.com/CurbsideProph3t"}
+    - {name: "site", link: "https://www.linkedin.com/in/marcos-rodr%C3%ADguez-8b1441195/"}
+
+- 
+  id: 6
+  name: "Alejandro"
+  surname: "Luque"
+  title: "Mercadotecnia"
+  thumbnailUrl: AlexLuque.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/Alex_Magnus_"}
+    - {name: "github", link: "https://github.com/AlexTheMagnus"}
+    - {name: "site", link: "https://www.linkedin.com/in/malejandrolule/"}
+
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  name: "Adrian"
+  surname: "Lopez"
+  title: "Desarrollo"
+  thumbnailUrl: AdrianLopez.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/Adrianlopezgue"}
+    - {name: "github", link: "https://github.com/AdrianLopezGue"}
+    - {name: "site", link: "https://www.linkedin.com/in/adri%C3%A1n-l%C3%B3pez-guerrero-8183b2150/"}
+
+- 
+  id: 8
+  name: "Ángel"
+  surname: "Heredia"
+  title: "Tesorería"
+  thumbnailUrl: AngelHeredia.jpg
+  team: true
+  ribbon: 
+    - {abbr: "ASL", title: "Aula Software Libre UCO"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/anthares101"}
+    - {name: "github", link: "https://github.com/anthares101"}
+
+- 
+  id: 9
+  name: "Javier"
+  surname: "de Santiago"
+  title: "Apoyo a Coordinación"
+  thumbnailUrl: FrancisMolina.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/Iicurgo"}
+
+- 
+  id: 10
+  name: "Javier"
+  surname: "Cañete"
+  title: "Dinamización"
+  thumbnailUrl: JavierCañete.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/Javibu5"}
+    - {name: "github", link: "https://github.com/Javibu5"}
+
+- 
+  id: 11
+  name: "Alejandro"
+  surname: "Ariza"
+  title: "Dinamización"
+  thumbnailUrl: AlejandroAriza.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/alexariza95"}
+    - {name: "github", link: "https://github.com/alexariza95"}
+    - {name: "site", link: "https://www.linkedin.com/in/alexariza95/"}
+
+- 
+  id: 12
+  name: "Jose"
+  surname: "Fernández"
+  title: "Desarrollo"
+  thumbnailUrl: JoseFernandez.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/jfrnandez_"}
+    - {name: "github", link: "https://github.com/josefrnandezz"}
+    - {name: "site", link: "https://www.linkedin.com/in/josefrnandezz/"}

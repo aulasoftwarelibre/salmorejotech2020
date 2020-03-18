@@ -13,7 +13,7 @@ exclude: ['/automation/', 'RlogosEADME.md', 'LICENSE.txt', 'CNAME']
 title: "SalmorejoTech 2020 | Aula de Software Libre"
 email: "aulasoftwarelibre@uco.es"
 description: "SalmorejoTech es un encuentro tecnológico realizado en Córdoba organizado por el Aula de Software libre de la UCO."
-baseurl: "/2020"
+baseurl: "/2020beta"
 url: "https://salmorejo.tech"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -45,9 +45,10 @@ navigationLinks:
  - {permalink: "/info/", text: "Información"}
 # - {permalink: "/programa/", text: "Programa"}
 # - {permalink: "/ponentes/", text: "Ponentes"}
-# - {permalink: "/patrocinadores/", text: "Patrocinadores"}
-# - {permalink: "/entradas/", text: "Entradas"}
  - {permalink: "/#location-map", text: "Sede"}
+ - {permalink: "/organizacion/", text: "Organización"}
+# - {permalink: "/entradas/", text: "Entradas"}
+ 
 #bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Inscribete para dar tu charla"}
 #rightNavigationButtons:
@@ -59,8 +60,8 @@ heroTitle: "SalmorejoTech 2020"
 eventDate: "18 de septiembre"
 typeoutTextValues: '"", "Libre", "Cordobés", "Tecnológico"'
 typeoutFallback: "Season"
-#heroButtons:
-# - {link: "https://bit.ly/dfua-c4p", text: "Inscribete para dar tu charla"}
+heroButtons:
+ - {link: "https://bit.ly/dfua-c4p", text: "Inscríbete para dar tu charla"}
 # - {permalink: "/#tickets", text: "Consigue tu entrada"}
 
 # About Block
@@ -194,8 +195,8 @@ discusShortName: "salmorejotech"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "¿Quieres Colaborar?"
-aboutUs: "Si eres una empresa y quieres apadrinar económicamente las actividades del Aula de Software Libre, contacta con nosotros a través de nuestro formulario de contacto y te enviaremos el dossier de patrocinio."
+teamBlockTitle: ""
+aboutUs: ""
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
