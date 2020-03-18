@@ -10,7 +10,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/PepeMarquezOF"}
     - {name: "github", link: "https://github.com/IronSenior"}
-    - {name: "site", link: "https://www.linkedin.com/in/pepemarquezof/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pepemarquezof/"}
 
 - 
   id: 1
@@ -24,7 +24,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/Pablorg99"}
     - {name: "github", link: "https://github.com/Pablorg99/"}
-    - {name: "site", link: "https://www.linkedin.com/in/pablorg99/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pablorg99/"}
 
 - 
   id: 2
@@ -36,7 +36,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/rexuswolf"}
     - {name: "github", link: "https://github.com/RexusWolf"}
-    - {name: "site", link: "https://www.linkedin.com/in/francisjmp/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/francisjmp/"}
 
 - 
   id: 3
@@ -50,7 +50,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/gecoga_98"}
     - {name: "github", link: "https://github.com/i62cogag"}
-    - {name: "site", link: "https://www.linkedin.com/in/gecoga-98/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gecoga-98/"}
 
 
 - 
@@ -58,24 +58,24 @@
   name: "Marcos"
   surname: "Rivera"
   title: "Secretaría"
-  thumbnailUrl: FrancisMolina.jpg
+  thumbnailUrl: MarcosRivera.jpg
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/Marcos18428863"}
     - {name: "github", link: "https://github.com/MarcosRigal"}
-    - {name: "site", link: "https://www.linkedin.com/in/marcos-rivera-gavil%C3%A1n-806b61184/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marcos-rivera-gavil%C3%A1n-806b61184/"}
 
 - 
   id: 5
   name: "Marcos"
   surname: "Rodríguez"
   title: "Apoyo a Relaciones Externas"
-  thumbnailUrl: FrancisMolina.jpg
+  thumbnailUrl: MarcosRodriguez.jpg
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/markshelby_"}
     - {name: "github", link: "https://github.com/CurbsideProph3t"}
-    - {name: "site", link: "https://www.linkedin.com/in/marcos-rodr%C3%ADguez-8b1441195/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marcos-rodr%C3%ADguez-8b1441195/"}
 
 - 
   id: 6
@@ -87,7 +87,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/Alex_Magnus_"}
     - {name: "github", link: "https://github.com/AlexTheMagnus"}
-    - {name: "site", link: "https://www.linkedin.com/in/malejandrolule/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/malejandrolule/"}
 
 - 
   id: 7
@@ -99,7 +99,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/Adrianlopezgue"}
     - {name: "github", link: "https://github.com/AdrianLopezGue"}
-    - {name: "site", link: "https://www.linkedin.com/in/adri%C3%A1n-l%C3%B3pez-guerrero-8183b2150/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/adri%C3%A1n-l%C3%B3pez-guerrero-8183b2150/"}
 
 - 
   id: 8
@@ -119,7 +119,7 @@
   name: "Javier"
   surname: "de Santiago"
   title: "Apoyo a Coordinación"
-  thumbnailUrl: FrancisMolina.jpg
+  thumbnailUrl: JavierSantiago.png
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/Iicurgo"}
@@ -145,7 +145,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/alexariza95"}
     - {name: "github", link: "https://github.com/alexariza95"}
-    - {name: "site", link: "https://www.linkedin.com/in/alexariza95/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alexariza95/"}
 
 - 
   id: 12
@@ -157,4 +157,4 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/jfrnandez_"}
     - {name: "github", link: "https://github.com/josefrnandezz"}
-    - {name: "site", link: "https://www.linkedin.com/in/josefrnandezz/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/josefrnandezz/"}

@@ -49,8 +49,8 @@ navigationLinks:
  - {permalink: "/organizacion/", text: "Organización"}
 # - {permalink: "/entradas/", text: "Entradas"}
  
-#bottomNavigationLinks:
-# - {link: "https://bit.ly/dfua-c4p", text: "Inscribete para dar tu charla"}
+bottomNavigationLinks:
+ - {link: "https://www.papercall.io/salmorejotech2020", text: "Inscríbete para dar tu charla"}
 #rightNavigationButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Consigue tu entrada"}
 
@@ -59,9 +59,9 @@ heroImage: "wallpaper-hero.jpg"
 heroTitle: "SalmorejoTech 2020"
 eventDate: "18 de septiembre"
 typeoutTextValues: '"", "Libre", "Cordobés", "Tecnológico"'
-typeoutFallback: "Season"
+typeoutFallback: "Tecnológico"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Inscríbete para dar tu charla"}
+ - {link: "https://www.papercall.io/salmorejotech2020", text: "Inscríbete para dar tu charla"}
 # - {permalink: "/#tickets", text: "Consigue tu entrada"}
 
 # About Block
@@ -90,7 +90,7 @@ rockstarSpeakersButtonText: "Ver todos los ponentes"
 # Location Block
 locationBlockTitle: "La sede"
 eventLocationName: "Salón de actos del Rectorado - Universidad de Córdoba"
-eventLocationLink: "https://www.google.com/search?client=ubuntu&channel=fs&q=rectorado%20de%20cordoba&ie=utf-8&oe=utf-8&hs=ntJ&npsic=0&rflfq=1&rlha=0&rllag=37882360,-4785404,387&tbm=lcl&rldimm=16039935859029556265&lqi=ChRyZWN0b3JhZG8gZGUgY29yZG9iYVohCglyZWN0b3JhZG8iFHJlY3RvcmFkbyBkZSBjb3Jkb2Jh&ved=2ahUKEwjY6bm3xsznAhVG1hoKHUmoBjQQvS4wAnoECAwQIA&rldoc=1&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&rlst=f#rlfi=hd:;si:16039935859029556265,l,ChRyZWN0b3JhZG8gZGUgY29yZG9iYVohCglyZWN0b3JhZG8iFHJlY3RvcmFkbyBkZSBjb3Jkb2Jh;mv:[[37.88556017731903,-4.778020961461594],[37.88520022268097,-4.778477038538408]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2"
+eventLocationLink: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2787.9072216274462!2d-4.789416865586315!3d37.885354119995874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6cdf60e271dc79%3A0xde994cae3981bc29!2sUniversidad+de+C%C3%B3rdoba!5e0!3m2!1ses!2ses!4v1557700322687!5m2!1ses!2ses"
 eventStreetAddress: "Av. Medina Azahara, s/n"
 eventAddressLocality: "Universidad de Córdoba"
 eventAddressLocalityRegion: "Córdoba"
